@@ -2,18 +2,6 @@
 
 # GitHub - Comandos Básicos
 
-## Configuración Inicial
-```sh
-# Configurar nombre de usuario
-git config --global user.name "Tu Nombre"
-
-# Configurar email
-git config --global user.email "tuemail@example.com"
-
-# Ver configuración actual
-git config --list
-```
-
 ## Inicializar un Repositorio
 ```sh
 # Crear un nuevo repositorio
